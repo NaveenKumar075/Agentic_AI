@@ -1,3 +1,3 @@
-# Agentic_AI Projects
+# Agentic_AI
 
 🤖 Agentic AI Projects 🚀
