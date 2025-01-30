@@ -1,2 +1,3 @@
-# Agentic_AI-Financial_Agent
+# Agentic_AI Projects
+
 🤖 Agentic AI Projects 🚀
