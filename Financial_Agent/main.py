@@ -37,4 +37,4 @@ agent_team = Agent(
     markdown=True,
 )
 
-agent_team.print_response("What is the ITC share market status now?", stream=True) # What's the market outlook and financial performance of Nvidia? | What is Agentic AI and what are AI trends in 2025?
+agent_team.print_response("What is the current TATA Steel share price?", stream=True) # What's the market outlook and financial performance of Nvidia? | What is Agentic AI and what are AI trends in 2025?
